@@ -2324,15 +2324,15 @@ h1, h2, h3, h4, h5,
      /* tutupan navbar merah keren nih cuy */
 
 .ans {
-  font-family: cursive;
+  font-family: 'Brush Script MT', cursive;
   text-shadow: 0px 0px 15px #ffffff;
 }
 .nse {
-  font-family: cursive;
+  font-family: 'Brush Script MT', cursive;
   color: #0091ff;
 }
 .unse {
-  font-family: cursive;
+  font-family: 'Brush Script MT', cursive;
   color: #0091ff;
 }
 .home-gambar-kiri {
@@ -2360,7 +2360,7 @@ margin-bottom: 15px;
     margin-bottom: 15px;
     }
 .home-text {
-  font-family: cursive;
+  font-family: 'Brush Script MT', cursive;
   text-align: justify;
   color: #000000;
 }
@@ -2371,7 +2371,7 @@ margin-bottom: 15px;
   text-decoration: underline;
 }
 a {
-  font-family: cursive;
+  /* font-family: cursive; */
   color: #0400ff;
   text-shadow: 1px 1px 10px #ffffff;
   text-decoration: underline;
@@ -2491,4 +2491,14 @@ color: #ffffff;
 /* Changelog */
 .text-muted {
     color: #8492a6 !important;
+}
+
+.text-palingatas{
+color: #0e00cb;
+font-style: bold;
+text-shadow: 1px 3px 5px #0e00cb;
+}
+.hitlerchad {
+    -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
 }
