@@ -815,8 +815,8 @@ h1, h2, h3, h4, h5,
       bottom: 0;
       background-image: url("https://i.postimg.cc/3J7YM4k8/artwork-sddp.jpg");
       background-size: cover;
-      background-repeat: no-repeat;
       background-position: center;
+      background-attachment: fixed;
       opacity: 0.3;
       z-index: 1; }
   .site-section-cover.inner-page,
