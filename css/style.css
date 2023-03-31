@@ -229,7 +229,13 @@ body {
   line-height: 1.7;
   color: #364d59 !important;
   font-weight: 300;
-  font-size: 1rem; }
+  font-size: 1rem; 
+  width: 100%;
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
+  overflow-x: hidden; 
+}
 
 ::-moz-selection {
   background: #000;
